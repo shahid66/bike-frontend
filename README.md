@@ -1,7 +1,13 @@
 # 🏍️ Bike Shop Application
 
 A full-featured, responsive Bike Shop application with secure user authentication, product management, order tracking, and a clean UI/UX experience. Built with a role-based access system for Customers and Admins.
+---
 
+## 🌐 Live Demo
+
+https://bike-frontend-sigma.vercel.app/
+
+---
 ## 🚀 Project Overview & Objective
 
 This application is designed to offer:
